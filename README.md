@@ -55,12 +55,13 @@ gigshield-ai-insurance
 ├── docs  
 └── README.md  
 
-## System Architecture
-
-![Architecture](architecture.drawio.png)
 ## Future Enhancements
 
 - AI fraud detection
 - GPS validation for workers
 - Dynamic premium pricing
 - Real-time weather disruption alerts
+
+## System Architecture
+
+![Architecture](architecture.drawio.png)
