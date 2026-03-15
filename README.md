@@ -64,4 +64,4 @@ gigshield-ai-insurance
 
 ## System Architecture
 
-![Architecture](architecture.draiwio.png)
+![Architecture](architecture.drawio.png)
