@@ -61,3 +61,7 @@ gigshield-ai-insurance
 - GPS validation for workers
 - Dynamic premium pricing
 - Real-time weather disruption alerts
+
+## System Architecture
+
+![Architecture](architecture.draiwio.png)
