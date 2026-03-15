@@ -55,6 +55,9 @@ gigshield-ai-insurance
 ├── docs  
 └── README.md  
 
+## System Architecture
+
+![Architecture](architecture.drawio.png)
 ## Future Enhancements
 
 - AI fraud detection
