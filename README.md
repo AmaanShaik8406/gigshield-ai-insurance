@@ -130,6 +130,16 @@ gigshield-ai-insurance
 
 ---
 
+# Team Details
+
+1. Amaan Shaik(Team lead)
+2. C Jahnavi
+3. N Sri Surya Ram
+4. P Abhinaya
+5. B Pavan Kumar
+
+---
+
 ## Project Status
 
 This project is currently in Phase-1 (Design & Planning). Implementation will be done in upcoming phases.
