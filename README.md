@@ -134,4 +134,4 @@ gigshield-ai-insurance
 
 This project is currently in Phase-1 (Design & Planning). Implementation will be done in upcoming phases.
 
-![Architecture](architecture.drawio.png)
+
