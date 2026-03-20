@@ -132,7 +132,7 @@ gigshield-ai-insurance
 
 # Team Details
 
-1. Amaan Shaik(Team lead)
+1. Shaik Amaan(Team lead)
 2. C Jahnavi
 3. N Sri Surya Ram
 4. P Abhinaya
